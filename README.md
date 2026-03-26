@@ -162,6 +162,8 @@ Email: luizmilare958@gmail.com
 GitHub: github.com/Luiz-mila
 
 Location: Paris, France 🇫🇷
+
+
 ---
 
 *This project is part of my Data Analysis portfolio. Focused on SQL, Python, and business storytelling.*
